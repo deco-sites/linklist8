@@ -1,0 +1,34 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Social.tsx"
+    },
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Links.tsx",
+      "links": [
+        {
+          "icon": {},
+          "label": "like share subscribe "
+        }
+      ]
+    },
+    {
+      "__resolveType": "site/sections/Image.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Image.tsx"
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
